@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá! Eu sou João da Silva 😁
+##
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=Jo4oV1tor222&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jo4oV1tor222&layout=compact_icons=true&theme=dracula)](https://github.com/Jo4oV1tor222/github-readme-stats)
+
+
+
+
+
 
 <!--
 **Jo4oV1tor222/Jo4oV1tor222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
